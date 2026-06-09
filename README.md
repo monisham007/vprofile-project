@@ -1,6 +1,8 @@
 # Vprofile
 A multi-tier Java web application deployed locally using Vagrant-managed virtual machines. This project demonstrates a production-like stack with a load balancer, application server, caching layer, message broker, and relational database — all running on your local machine.
 
+Note: This project was completed as part of the Udemy course "Decoding DevOps – From Basics to Advanced Projects with AI" by Imran Teli. The repository is maintained for educational and portfolio purposes to demonstrate my learning of Vagrant, Git, Maven and related services.
+
 📐 Architecture Overview
 
 1. The user navigates to the app via IP address in a browser.
